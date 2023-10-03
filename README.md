@@ -40,6 +40,7 @@ $source devel/setup.bash
 $export TURTLEBOT3_MODEL=waffle_pi
 $roslunch turtlebot3_gazebo turtlebot3_world.lunch
 ```
+![257977381-a136f6cd-be85-408f-9780-fe01d7715d21](https://github.com/ShahadAliH/Turtlebot3-with-SLAM/assets/145300172/72e2b3cc-5123-4dfa-9669-1868c8c1d148)
 ![ROS2](https://github.com/ShahadAliH/Turtlebot3-with-SLAM/assets/145300172/65fab1a5-3eaa-459b-80f7-a1a608b23f75)
 # Execute SLAM
 In this case, we use gmapping that is general slam package.
