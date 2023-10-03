@@ -41,8 +41,9 @@ $export TURTLEBOT3_MODEL=waffle_pi
 $roslunch turtlebot3_gazebo turtlebot3_world.lunch
 ```
 ![ROS2](https://github.com/ShahadAliH/Turtlebot3-with-SLAM/assets/145300172/65fab1a5-3eaa-459b-80f7-a1a608b23f75)
-#Execute SLAM
+# Execute SLAM
 In this case, we use gmapping that is general slam package.
+
 File> New Tap
 ```
 $cd catkin_ws
